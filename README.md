@@ -77,8 +77,3 @@ A unique game mechanic that randomly triggers challenging events every 30 second
 - **Obstacle**: Base class for all obstacle types
 - **Abilities**: Power-up system management
 - **Ymir**: Random event generator
-
-
-1. **Clone the repository**
-   ```bash
-   git clone <your-repository-url>
